@@ -2,32 +2,42 @@
   <img 
     width="100%"
     src="https://static-ten-rust.vercel.app/images/git-banner.gif" 
-    style="border-radius: 20px" 
     alt="Truong Vi Profile"
   />
 </a>
 
 <h3 align="center">ABOUT ME</h3>
-<p style="text-align: center;">I am an experienced Frontend Developer with 4 years of hands-on experience in developing responsive and interactive web applications. I have a strong understanding of web development technologies and frameworks such as HTML, CSS, JavaScript, React, Next.js, NodeJs, NestJS. I am passionate about creating user-friendly interfaces and ensuring the best user experience.</p>
+<p style="text-align: center;">
+  🔭 I’m currently working at Antsomi <br />
+  🌱 I’m currently learning Devops, Mobile <br />
+  💬 Ask me about ReactJS, NextJS, Redux, Tailwind, ReactQuery <br />
+  ⚡ Fun fact I love looking at girls 
+</p>
 
 <h3 align="center">TECHNOLOGY STACK</h3>
 
 <p align="center">
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-AntDesign-1677ff?style=flat-square&logo=antdesign"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
-<img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
-<img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
-<img src="https://img.shields.io/badge/-NestJS-black?style=flat-square&logo=next.js"/>
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
-<img src="https://img.shields.io/badge/-NestJS-ea2845?style=flat-square&logo=nestjs"/>
+<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E"/>
+<img src="https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB"/>
+<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/SASS-hotpink.svg?style=flat-square&logo=SASS&logoColor=white"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white"/>
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat-square&logo=nestjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=flat-square&logo=digitalOcean&logoColor=white"/>
+<img src="https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/strapi-%232E7EEA.svg?style=flat-square&logo=strapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white"/>
 </p>
 
-<h3 align="center">CONTACT ME</h3>
+<h3 align="center">SOCIALS</h3>
 
 <p align="center">
 <!-- <img src="https://img.shields.io/badge/-ritik-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/pinkdogg307/"/> -->
