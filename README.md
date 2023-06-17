@@ -7,7 +7,8 @@
 </a>
 
 <h3 align="center">ABOUT ME</h3>
-<p style="text-align: center;">
+
+<p align="center">
   🔭 I’m currently working at Antsomi <br />
   🌱 I’m currently learning Devops, Mobile <br />
   💬 Ask me about ReactJS, NextJS, Redux, Tailwind, ReactQuery <br />
