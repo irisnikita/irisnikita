@@ -1,10 +1,11 @@
 <a href="https://github.com/irisnikita">
-  <img 
-    width="100%"
-    src="https://static-ten-rust.vercel.app/images/git-banner.gif" 
-    style="border-radius: 20px" 
-    alt="Truong Vi Profile"
-  />
+  <div style="border-radius: 20px; overflow: hidden;" >
+    <img 
+      width="100%"
+      src="https://static-ten-rust.vercel.app/images/git-banner.gif" 
+      alt="Truong Vi Profile"
+    />
+  </div>
 </a>
 
 <h3 align="center">ABOUT ME</h3>
