@@ -1,7 +1,7 @@
 <a href="https://github.com/irisnikita">
   <img 
     width="100%"
-    src="https://im2.ezgif.com/tmp/ezgif-2-f3fff578f1.gif" 
+    src="https://static-ten-rust.vercel.app/images/git-banner.gif" 
     style="border-radius: 20px" 
     alt="Truong Vi Profile"
   />
