@@ -67,5 +67,5 @@
 <h3 align="center">MY CONTRIBUTION GRAPH</h3>
 
 <p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/irisnikita/irisnikita/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
